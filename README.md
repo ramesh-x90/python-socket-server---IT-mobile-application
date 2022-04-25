@@ -3,4 +3,4 @@ socket server application for a mobile application
 
 # mobile application project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Flutter-Mobile-Application)](https://github.com/ramesh1212445/Flutter-Mobile-Application.git)
